@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "4569dc57-59f9-4c9e-a6ca-286ced87de16",
+            "collectionId": "Serbian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Short_Story/4569dc57-59f9-4c9e-a6ca-286ced87de16/4569dc57-59f9-4c9e-a6ca-286ced87de16_bs_Male.mp4"
+        },
+        {
+            "id": "1e46af4a-b469-4f43-a4fc-a792a781ffe9",
+            "collectionId": "Serbian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Short_Story/1e46af4a-b469-4f43-a4fc-a792a781ffe9/1e46af4a-b469-4f43-a4fc-a792a781ffe9_bs_Female.mp4"
+        },
+        {
+            "id": "a8e65eff-25ee-4ab7-a35c-e23044182f34",
+            "collectionId": "Serbian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Serbian/Serbian_Short_Story/a8e65eff-25ee-4ab7-a35c-e23044182f34/a8e65eff-25ee-4ab7-a35c-e23044182f34_bs_Male.mp4"
+        }
+    ]
+}
